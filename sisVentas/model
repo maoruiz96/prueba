@@ -1,0 +1,21 @@
+
+                                                                  
+  [Symfony\Component\Console\Exception\CommandNotFoundException]  
+  Command "make" is not defined.                                  
+  Did you mean one of these?                                      
+      make:middleware                                             
+      make:controller                                             
+      make:migration                                              
+      make:listener                                               
+      make:provider                                               
+      make:console                                                
+      make:request                                                
+      make:policy                                                 
+      make:seeder                                                 
+      make:event                                                  
+      make:model                                                  
+      make:auth                                                   
+      make:test                                                   
+      make:job                                                    
+                                                                  
+
