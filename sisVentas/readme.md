@@ -1,2 +1,3 @@
-#Curso diseño de Sistema Compras y Ventas - LARAVEL MySQL Jquery Bootstrap (Código de barras)
+#Sistema Compras y Ventas - LARAVEL-MySQL-Jquery-Bootstrap.
+#Programación y Base de datos 611
 
